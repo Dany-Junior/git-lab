@@ -5,3 +5,9 @@ public class Main {
     System.out.println("Hello, world!");
   }
 }
+
+class Utils {
+  public static void doKek() {
+    System.out.println("Turba kek!");
+  }
+}
